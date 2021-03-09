@@ -1,0 +1,28 @@
+# ZOOMSUP
+
+Ayuda online de productos Digi21
+
+Permite una visualización selectiva del dibujo hacia arriba.
+
+## Parámetros
+
+No admite parámetros.
+
+## Observaciones
+
+El porcentaje de solape se determina con la orden [SOLAPE](solape.md).
+
+## Características de la orden
+
+| Tipo de orden | [Orden inmediata](zoomsup.md) |
+| :--- | :--- |
+| Repite automáticamente | No |
+| Opción del menú donde aparece la orden | Zooms/Zoom arriba |
+| Barra de herramientas en la que aparece la orden | Desplazamientos de ventana |
+| Extensión | DigiNG.OrdenesStandard.dll |
+| Variables relacionadas | [SOLAPE](solape.md) |
+
+## Vídeo
+
+Vea también
+
