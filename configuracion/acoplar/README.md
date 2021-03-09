@@ -1,6 +1,6 @@
 # ACOPLAR
 
-Genera un archivo raster idéntico al/los cargado/os mediante la orden [CARGA\_RASTER](../acerca-de-las-llaves-de-proteccion/tipos-de-llaves-de-proteccion/carga_raster.md), pero con los vectores insertados en el propio raster.
+Genera un archivo raster idéntico al/los cargado/os mediante la orden [CARGA\_RASTER](../../acerca-de-las-llaves-de-proteccion/tipos-de-llaves-de-proteccion/carga_raster.md), pero con los vectores insertados en el propio raster.
 
 ## Parámetros
 
@@ -16,7 +16,7 @@ Esta opción nos será de gran utilidad a la hora de plotear, por ejemplo ortos,
 
 ## Características de la orden
 
-| Tipo de orden | [Orden interactiva](acoplar.md) |
+| Tipo de orden | [Orden interactiva](./) |
 | :--- | :--- |
 | Repite automáticamente | No |
 | Opción del menú donde aparece la orden | _Esta orden no tiene asociada ninguna opción de menú_ |

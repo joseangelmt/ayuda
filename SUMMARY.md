@@ -2,7 +2,9 @@
 
 * [Ayuda de Digi3D.NET](README.md)
 * [Configuración](configuracion/README.md)
-  * [ACOPLAR](configuracion/acoplar.md)
+  * [ACOPLAR](configuracion/acoplar/README.md)
+    * [2P](configuracion/acoplar/2p.md)
+    * [2P\_AA](configuracion/acoplar/2p_aa.md)
 
 ## grupo 2
 
@@ -11,8 +13,6 @@
 ## Acerca de las llaves de protección
 
 * [1TEXTO](acerca-de-las-llaves-de-proteccion/tipos-de-llaves-de-proteccion/README.md)
-  * [2P\_AA](acerca-de-las-llaves-de-proteccion/tipos-de-llaves-de-proteccion/2p_aa.md)
-  * [2P](acerca-de-las-llaves-de-proteccion/tipos-de-llaves-de-proteccion/2p.md)
   * [3P](acerca-de-las-llaves-de-proteccion/tipos-de-llaves-de-proteccion/3p.md)
   * [AA](acerca-de-las-llaves-de-proteccion/tipos-de-llaves-de-proteccion/aa.md)
   * [Activaciones](acerca-de-las-llaves-de-proteccion/tipos-de-llaves-de-proteccion/activaciones.md)
