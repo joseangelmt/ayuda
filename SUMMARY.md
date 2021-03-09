@@ -4,6 +4,10 @@
 * [Configuración](configuracion/README.md)
   * [ACOPLAR](configuracion/acoplar.md)
 
+## grupo 2
+
+* [Untitled](grupo-2/untitled.md)
+
 ## Acerca de las llaves de protección
 
 * [1TEXTO](acerca-de-las-llaves-de-proteccion/tipos-de-llaves-de-proteccion/README.md)
