@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Ayuda de Digi3D.NET](README.md)
-* [Configuración](configuracion.md)
+* [Configuración](configuracion/README.md)
+  * [ACOPLAR](configuracion/acoplar.md)
 
 ## Acerca de las llaves de protección
 
@@ -10,7 +11,6 @@
   * [2P](acerca-de-las-llaves-de-proteccion/tipos-de-llaves-de-proteccion/2p.md)
   * [3P](acerca-de-las-llaves-de-proteccion/tipos-de-llaves-de-proteccion/3p.md)
   * [AA](acerca-de-las-llaves-de-proteccion/tipos-de-llaves-de-proteccion/aa.md)
-  * [ACOPLAR](acerca-de-las-llaves-de-proteccion/tipos-de-llaves-de-proteccion/acoplar.md)
   * [Activaciones](acerca-de-las-llaves-de-proteccion/tipos-de-llaves-de-proteccion/activaciones.md)
   * [Activar ordenador](acerca-de-las-llaves-de-proteccion/tipos-de-llaves-de-proteccion/activar-ordenador.md)
   * [Activar ordenador Offline](acerca-de-las-llaves-de-proteccion/tipos-de-llaves-de-proteccion/activar-ordenador-offline.md)

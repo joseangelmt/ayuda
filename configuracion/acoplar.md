@@ -1,6 +1,6 @@
 # ACOPLAR
 
-Genera un archivo raster idéntico al/los cargado/os mediante la orden [CARGA\_RASTER](carga_raster.md), pero con los vectores insertados en el propio raster.
+Genera un archivo raster idéntico al/los cargado/os mediante la orden [CARGA\_RASTER](../acerca-de-las-llaves-de-proteccion/tipos-de-llaves-de-proteccion/carga_raster.md), pero con los vectores insertados en el propio raster.
 
 ## Parámetros
 
